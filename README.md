@@ -153,7 +153,8 @@ I am a Computer Science undergraduate specialising in AI & Robotics, with a stro
 
 ## Beyond the Code
 
-- Designs and builds custom FPV drones from hardware, then develops the embedded and cloud software to operate them
+- Developed a custom ArduPilot SITL testing suite capable of spawning and managing multiple simultaneous drone instances, with configurable motion patterns, failure injection (GPS loss, low battery, geofence breach, radio link loss), and synthetic payload streaming — used as the primary validation environment for PolarisGCS
+- Assembled and configured drones with Pixhawk flight controllers for real-hardware validation of software systems
 - Rubik's Cube &mdash; 3×3 PB: **10.25s** &nbsp;·&nbsp; Blind Solve PB: **56.41s**
 - Basketball
 
