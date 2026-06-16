@@ -5,7 +5,13 @@
   <b>Cloud Infrastructure &nbsp;·&nbsp; Backend Engineering &nbsp;·&nbsp; Autonomous Drone Systems</b>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChauhanKrish4763&color=blueviolet&style=flat-square&label=Profile+Views"/>
+  <img src="https://img.shields.io/github/followers/ChauhanKrish4763?style=flat-square&color=blue"/>
+</p>
+
 ---
+
 ## About Me
 
 I am a Computer Science undergraduate specialising in AI & Robotics, with a strong focus on designing and building **cloud-based distributed systems**. My work spans the full spectrum — from low-level drone hardware and MAVLink protocol integration to scalable cloud infrastructure on AWS and production-ready backend services.
@@ -58,7 +64,6 @@ I am a Computer Science undergraduate specialising in AI & Robotics, with a stro
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
@@ -130,7 +135,7 @@ I am a Computer Science undergraduate specialising in AI & Robotics, with a stro
 ## 🏆 Achievements
 
 - **2nd Place** &mdash; Hack-N-Droid 2025 (Android Club, VIT Chennai)
-- **AWS Developer Associate Certificate** &mdash; Amazon Web services, Amazon
+- **AWS Developer Associate Certificate** &mdash; Amazon Web Services
 - **QA Internship Completion Certificate** &mdash; Punatsangchhu-II Hydroelectric Project, Bhutan
 - **Dart & Flutter** Course Completion &mdash; Hussain Mustafa (Udemy)
 
@@ -148,9 +153,23 @@ I am a Computer Science undergraduate specialising in AI & Robotics, with a stro
 
 ## Beyond the Code
 
+- Designs and builds custom FPV drones from hardware, then develops the embedded and cloud software to operate them
 - Rubik's Cube &mdash; 3×3 PB: **10.25s** &nbsp;·&nbsp; Blind Solve PB: **56.41s**
 - Basketball
-- Building and flying FPV drones, followed by writing the software to control them
+
+---
+
+## 📫 Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/chauhan-krish/">
+    <img src="https://img.shields.io/badge/LinkedIn-chauhan--krish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:krishc4763@gmail.com">
+    <img src="https://img.shields.io/badge/Email-krishc4763@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
