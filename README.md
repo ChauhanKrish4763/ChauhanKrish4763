@@ -7,12 +7,6 @@
 <p align="center">
   <i>"I build systems that connect the sky to the cloud — reliable, scalable, and real-time."</i>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChauhanKrish4763&color=blueviolet&style=flat-square&label=Profile+Views"/>
-  <img src="https://img.shields.io/github/followers/ChauhanKrish4763?style=flat-square&color=blue"/>
-</p>
-
 ---
 
 ## 🧠 About Me
