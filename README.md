@@ -5,12 +5,6 @@
   <b>Cloud Infrastructure &nbsp;·&nbsp; Backend Engineering &nbsp;·&nbsp; Autonomous Drone Systems</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChauhanKrish4763&color=blueviolet&style=flat-square&label=Profile+Views"/>
-  <img src="https://img.shields.io/github/followers/ChauhanKrish4763?style=flat-square&color=blue"/>
-</p>
-
----
 
 ## About Me
 
