@@ -19,7 +19,7 @@ I am a Computer Science undergraduate specialising in AI & Robotics, with a stro
 - Designed and deployed multiple end-to-end cloud platforms with a focus on reliability, scalability, and real-time performance
 - Experienced in autonomous drone systems: ArduPilot, SITL simulation, mission planning, and telemetry pipelines
 - Proficient in backend engineering, cloud infrastructure, and cross-platform application development
-- Hackathon award recipient &nbsp;·&nbsp; Industry internship experience &nbsp;·&nbsp; Certified Developer Associate AWS
+- Hackathon award recipient &nbsp;·&nbsp; Industry internship experience &nbsp;·&nbsp; AWS Developer Associate *(in progress)*
 
 ---
 
@@ -135,7 +135,7 @@ I am a Computer Science undergraduate specialising in AI & Robotics, with a stro
 ## 🏆 Achievements
 
 - **2nd Place** &mdash; Hack-N-Droid 2025 (Android Club, VIT Chennai)
-- **AWS Developer Associate Certificate** &mdash; Amazon Web Services
+- **AWS Developer Associate** &mdash; Amazon Web Services *(in progress)*
 - **QA Internship Completion Certificate** &mdash; Punatsangchhu-II Hydroelectric Project, Bhutan
 - **Dart & Flutter** Course Completion &mdash; Hussain Mustafa (Udemy)
 
