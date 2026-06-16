@@ -13,7 +13,7 @@ I am a Computer Science undergraduate specialising in AI & Robotics, with a stro
 - Designed and deployed multiple end-to-end cloud platforms with a focus on reliability, scalability, and real-time performance
 - Experienced in autonomous drone systems: ArduPilot, SITL simulation, mission planning, and telemetry pipelines
 - Proficient in backend engineering, cloud infrastructure, and cross-platform application development
-- Hackathon award recipient &nbsp;·&nbsp; Industry internship experience &nbsp;·&nbsp; Active open-source contributor
+- Hackathon award recipient &nbsp;·&nbsp; Industry internship experience &nbsp;·&nbsp; Certified Developer Associate AWS
 
 ---
 
