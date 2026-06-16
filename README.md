@@ -5,7 +5,7 @@
   <b>Cloud Infrastructure &nbsp;·&nbsp; Backend Engineering &nbsp;·&nbsp; Autonomous Drone Systems</b>
 </p>
 
-
+---
 ## About Me
 
 I am a Computer Science undergraduate specialising in AI & Robotics, with a strong focus on designing and building **cloud-based distributed systems**. My work spans the full spectrum — from low-level drone hardware and MAVLink protocol integration to scalable cloud infrastructure on AWS and production-ready backend services.
