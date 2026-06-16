@@ -71,9 +71,9 @@ I am a Computer Science undergraduate specialising in AI & Robotics, with a stro
 
 - Real-time telemetry streaming from MAVLink-enabled drones via WebSockets to a live cloud dashboard
 - Mission planning interface for defining, uploading, and tracking autonomous flight paths remotely
-- Desktop edge gateway (PySide6) handling mission delivery, telemetry relay, and configurable failsafe logic during connectivity loss
+- Desktop & Android edge gateway (PySide6 and Kotlin) handling mission delivery, telemetry relay, and configurable failsafe logic during connectivity loss
 - Cloud-deployed backend on **AWS** with concurrent multi-drone session management
-- Built with **FastAPI · React · Firebase · PySide6**, containerised with **Docker**
+- Built with **FastAPI · React · Firebase · PySide6 · Kotlin**, containerised with **Docker**
 - Full MAVLink protocol integration for ArduPilot-based drone fleets
 
 ---
