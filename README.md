@@ -130,6 +130,7 @@ I am a Computer Science undergraduate specialising in AI & Robotics, with a stro
 ## 🏆 Achievements
 
 - **2nd Place** &mdash; Hack-N-Droid 2025 (Android Club, VIT Chennai)
+- **AWS Developer Associate Certificate** &mdash; Amazon Web services, Amazon
 - **QA Internship Completion Certificate** &mdash; Punatsangchhu-II Hydroelectric Project, Bhutan
 - **Dart & Flutter** Course Completion &mdash; Hussain Mustafa (Udemy)
 
