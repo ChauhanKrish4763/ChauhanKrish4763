@@ -1,71 +1,25 @@
-<h1 align="center">Hi, I'm Krish Chauhan 👋</h1>
+<h1 align="center">Krish Chauhan</h1>
 
 <p align="center">
-  <b>CS Undergrad @ VIT Chennai · AI & Robotics · Cloud & Backend Engineer · Drone Systems Builder</b>
+  <b>B.Tech Computer Science & Engineering (AI & Robotics) &nbsp;·&nbsp; Vellore Institute of Technology, Chennai</b><br/>
+  <b>Cloud Infrastructure &nbsp;·&nbsp; Backend Engineering &nbsp;·&nbsp; Autonomous Drone Systems</b>
 </p>
 
 <p align="center">
-  <i>"I build systems that connect the sky to the cloud — reliable, scalable, and real-time."</i>
+  <img src="https://komarev.com/ghpvc/?username=ChauhanKrish4763&color=blueviolet&style=flat-square&label=Profile+Views"/>
+  <img src="https://img.shields.io/github/followers/ChauhanKrish4763?style=flat-square&color=blue"/>
 </p>
----
-
-## 🧠 About Me
-
-- 🎓 **B.Tech in CSE (AI & Robotics)** at Vellore Institute of Technology, Chennai — CGPA: **8.82**
-- ☁️ Passionate about **cloud-based distributed systems** — I've designed and built multiple end-to-end cloud platforms from scratch
-- 🛸 Building **autonomous drone systems** with real-time telemetry, MAVLink, and cloud-connected GCS
-- 🏆 Hackathon winner · QA Intern · Open-source contributor
-- 🔧 I go from hardware (FPV drones, flight controllers) to cloud infra (AWS, Docker, CI/CD) to frontend (React, Flutter)
 
 ---
 
-## 🚀 Featured Projects
+## About Me
 
-### 🛸 PolarisGCS — Cloud-Based Ground Control System
-> *Full-stack cloud-native GCS for autonomous multi-UAV operations*
+I am a Computer Science undergraduate specialising in AI & Robotics, with a strong focus on designing and building **cloud-based distributed systems**. My work spans the full spectrum — from low-level drone hardware and MAVLink protocol integration to scalable cloud infrastructure on AWS and production-ready backend services.
 
-- 📡 **Real-time telemetry** streaming from MAVLink-enabled drones via WebSockets to a live cloud dashboard
-- 🗺️ **Mission planning** — define, upload, and track autonomous flight paths remotely
-- 🖥️ **Desktop edge gateway** (PySide6) handling mission delivery, telemetry relay, and failsafe logic during connectivity loss
-- ☁️ Cloud-deployed backend on **AWS** with concurrent multi-drone session management
-- 🔁 Built with **FastAPI + React + Firebase + PySide6**, containerized with **Docker**
-- 🔗 MAVLink protocol integration for ArduPilot-based drones
-
----
-
-### 🐾 PawGuard — AI-Powered Pet Safety Platform
-> *Smart pet safety ecosystem with real-time tracking and emergency response*
-
-- 🗺️ **Google Maps API** integration for real-time veterinarian alerts and location-based tracking
-- 🚨 Emergency **incident reporting** module with instant owner notifications
-- 💰 **Crowdfunding module** for pet welfare and adoption drives
-- 📱 Built with **Flutter + Firebase** — cross-platform, real-time, low-latency
-
----
-
-### ♻️ Junkunk — Ragpicker Marketplace
-> *AWS-powered marketplace connecting recyclers and waste collectors*
-
-- 🥈 **Won 2nd Place** at Hack-N-Droid 2025 (Android Club, VIT)
-- ☁️ Leveraged **AWS services** for scalable backend and storage
-- 📲 Built with **Flutter** — clean UX connecting two sides of the recycling ecosystem
-
----
-
-### 🎓 Queez — Quiz & Learning Platform
-> *Interactive learning platform with classrooms and video-based content*
-
-- 🃏 Flashcards, classrooms, leaderboards, and video-based content modules
-- 🔐 Authentication and leaderboard system via **FastAPI + MongoDB**
-- 📲 Frontend built in **Flutter**
-
----
-
-## 💼 Experience
-
-**Quality Tester Intern** · Punatsangchhu-II Hydroelectric Project, Bhutan *(May 2025 – Jul 2025)*
-- Performed QA testing across multiple **SAP ERP modules** and documented critical defects
-- Redesigned and deployed the official website using **React.js**, improving performance by **25%**
+- Designed and deployed multiple end-to-end cloud platforms with a focus on reliability, scalability, and real-time performance
+- Experienced in autonomous drone systems: ArduPilot, SITL simulation, mission planning, and telemetry pipelines
+- Proficient in backend engineering, cloud infrastructure, and cross-platform application development
+- Hackathon award recipient &nbsp;·&nbsp; Industry internship experience &nbsp;·&nbsp; Active open-source contributor
 
 ---
 
@@ -90,8 +44,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MAVLink-FF0000?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/ArduPilot-FF0000?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MAVLink-FF0000?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ### Cloud & Infrastructure
@@ -111,8 +65,58 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### PolarisGCS &mdash; Cloud-Based Ground Control System
+> Full-stack, cloud-native Ground Control Station for autonomous multi-UAV operations
+
+- Real-time telemetry streaming from MAVLink-enabled drones via WebSockets to a live cloud dashboard
+- Mission planning interface for defining, uploading, and tracking autonomous flight paths remotely
+- Desktop edge gateway (PySide6) handling mission delivery, telemetry relay, and configurable failsafe logic during connectivity loss
+- Cloud-deployed backend on **AWS** with concurrent multi-drone session management
+- Built with **FastAPI · React · Firebase · PySide6**, containerised with **Docker**
+- Full MAVLink protocol integration for ArduPilot-based drone fleets
+
+---
+
+### PawGuard &mdash; AI-Powered Pet Safety Platform
+> Smart pet safety ecosystem with real-time tracking and emergency response
+
+- Google Maps API integration for real-time veterinarian alerts and location-based tracking
+- Emergency incident reporting module with instant owner notifications
+- Crowdfunding module supporting pet welfare and adoption initiatives
+- Built with **Flutter · Firebase** — cross-platform, real-time, and low-latency
+
+---
+
+### Junkunk &mdash; Sustainable Waste Marketplace
+> AWS-powered marketplace connecting recyclers and waste collectors
+
+- **2nd Place** — Hack-N-Droid 2025 (Android Club, VIT Chennai)
+- Leveraged AWS services for scalable backend and distributed storage
+- Built with **Flutter** — seamlessly connecting both sides of the recycling ecosystem
+
+---
+
+### Queez &mdash; Quiz & Learning Platform
+> Interactive learning platform with classrooms and video-based content
+
+- Modules for flashcards, virtual classrooms, leaderboards, and video-based learning content
+- Authentication and leaderboard system implemented with **FastAPI · MongoDB**
+- Cross-platform frontend built with **Flutter**
+
+---
+
+## 💼 Experience
+
+**Quality Tester Intern** &nbsp;·&nbsp; Punatsangchhu-II Hydroelectric Project, Bhutan &nbsp;*(May 2025 – July 2025)*
+- Performed QA testing across multiple SAP ERP modules and documented critical defects
+- Redesigned and deployed the official website using React.js, achieving a **25% improvement in performance**
 
 ---
 
@@ -131,31 +135,31 @@
 
 ## 🏆 Achievements
 
-- 🥈 **2nd Place** — Hack-N-Droid 2025 (Android Club, VIT Chennai)
-- 📜 **QA Internship Completion Certificate** — Punatsangchhu-II Hydroelectric Project, Bhutan
-- 🎓 **Dart & Flutter** Course — Hussain Mustafa (Udemy)
+- **2nd Place** &mdash; Hack-N-Droid 2025 (Android Club, VIT Chennai)
+- **QA Internship Completion Certificate** &mdash; Punatsangchhu-II Hydroelectric Project, Bhutan
+- **Dart & Flutter** Course Completion &mdash; Hussain Mustafa (Udemy)
 
 ---
 
 ## 🎯 Clubs & Involvement
 
-| Club | Role |
-|------|------|
+| Organisation | Role |
+|---|---|
 | **Google Developer Groups (GDG)** | App Development Team Member |
 | **Youth Red Cross Club, VIT** | Content & Social Media Member |
 | **Cyscom Club, VIT** | Technical Member |
 
 ---
 
-## ⚡ Fun Facts
+## Beyond the Code
 
-- 🧩 Rubik's Cube nerd — 3x3 PB: **10.25s** · Blind Solve PB: **56.41s**
-- 🏀 Basketball player
-- 🛸 I build and fly FPV drones, then write the software to control them
-- 🌙 Most of my best code gets written after midnight
+- Rubik's Cube &mdash; 3×3 PB: **10.25s** &nbsp;·&nbsp; Blind Solve PB: **56.41s**
+- Basketball
+- Building and flying FPV drones, followed by writing the software to control them
 
 ---
 
 <p align="center">
-  <i>Always building. Always shipping. Always in the sky. 🚀</i>
+  <i>"There are only two hard things in Computer Science: cache invalidation and naming things."</i><br/>
+  <sub>&mdash; Phil Karlton</sub>
 </p>
